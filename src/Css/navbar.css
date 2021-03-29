@@ -1,0 +1,22 @@
+.menu ul {
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline-block;
+  padding: 0.5%;
+  position: relative;
+  transition-duration: 0.5s;
+  vertical-align: middle;
+}
+
+.menu li a {
+  padding: 14px 16px;
+  text-decoration: none;
+  color: black;
+}
+
+.menu .right {
+  float: right;
+}
